@@ -5,6 +5,29 @@
 ![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
+# ⚠️ Observação
+
+Os arquivos CSV utilizados neste projeto pertencem ao case técnico disponibilizado pela empresa durante o processo seletivo e, por esse motivo, não foram publicados neste repositório.
+
+# 📊 Como abrir o projeto no Power BI
+
+Este repositório contém o arquivo "Palavritas_Result.pbix" desenvolvido no Power BI Desktop.
+
+  * Visualização do projeto
+
+O relatório pode ser aberto normalmente no Power BI Desktop.
+Como os arquivos CSV utilizados no case não fazem parte deste repositório, algumas consultas poderão solicitar a localização da fonte de dados caso seja realizada uma atualização.
+
+# Para visualizar o dashboard
+
+*Faça o download do arquivo: Palavritas_Result.pbix
+
+*Abra normalmente utilizando o Power BI Desktop.
+
+*Não clique em "Atualizar" (Refresh).
+
+O arquivo já contém o modelo de dados carregado e todas as páginas do dashboard poderão ser exploradas normalmente.
+
 ---
 
 # 📖 Sobre o projeto
@@ -412,3 +435,10 @@ O projeto demonstrou como dados podem ser utilizados para compreender o comporta
 Além da construção do dashboard, o foco esteve na geração de hipóteses de negócio e recomendações práticas, aproximando a análise de dados do processo real de tomada de decisão utilizado por equipes de Produto.
 
 Os resultados indicam oportunidades para aumentar a retenção por meio de melhorias na comunicação com os usuários, estratégias de engajamento e experimentos controlados (A/B Tests), reforçando a importância da cultura orientada por dados no desenvolvimento de produtos digitais.
+
+
+
+
+
+
+
