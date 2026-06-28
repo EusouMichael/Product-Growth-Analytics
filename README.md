@@ -24,6 +24,7 @@ Responder às seguintes perguntas:
 * Quais funcionalidades possuem maior potencial para aumentar o engajamento?
 * Quais experimentos poderiam ser implementados para validar hipóteses de negócio?
 
+
 ---
 
 # 📚 Contexto do Negócio
@@ -96,6 +97,7 @@ Exemplos:
 * delivery
 * entre outros.
 
+![Modelagem](img/Modelagem.png)
 ---
 
 # ⚙ Tratamento dos Dados
@@ -130,6 +132,7 @@ Entre as principais medidas criadas estão:
 * Usuários Retornaram D1
 * Usuários Ativos D30
 
+![Recomendações](img/Dados_Medidas.png)
 ---
 
 # 📊 Dashboard
@@ -158,7 +161,8 @@ Também apresenta:
 
 * contexto do negócio
 * objetivo da análise
-
+  
+![Resumo Executivo](img/Resumo%20Executivo.png)
 ---
 
 ## 2️⃣ Retenção
@@ -176,6 +180,7 @@ Foram avaliados:
 
 Ao final da página foram resumidos os principais insights e hipóteses para novos experimentos.
 
+![Retenção](img/Retenção.png)
 ---
 
 ## 3️⃣ Drivers da Retenção
@@ -194,6 +199,7 @@ Foram analisados:
 
 Cada visual é acompanhado de interpretações que auxiliam na tomada de decisão.
 
+![Drivers da Retenção](img/Drivers%20da%20Retenção.png)
 ---
 
 ## 4️⃣ Perfil dos Usuários
@@ -209,6 +215,7 @@ Objetivo:
 
 Identificar segmentos com maiores índices de retenção.
 
+![Perfil do Usuário](img/Perfil%20usuário.png)
 ---
 
 ## 5️⃣ Recomendações Estratégicas
@@ -225,6 +232,8 @@ Cada recomendação apresenta:
 
 Também foi proposto um roadmap dividido em sprints para facilitar a implementação.
 
+![Recomendações](img/Recomendação1.png)
+![Recomendações](img/Recomendação%202.png)
 ---
 
 # 🔍 Principais Insights
