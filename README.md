@@ -404,35 +404,6 @@ Aumentar frequência de utilização do jogo.
 
 ---
 
-# 🛠 Ferramentas Utilizadas
-
-* Power BI
-* Power Query
-* DAX
-* Modelagem Dimensional
-* Excel
-* Git
-* GitHub
-
----
-
-# 🎯 Competências Demonstradas
-
-* Data Cleaning
-* Data Modeling
-* ETL
-* Power Query
-* DAX
-* Storytelling com Dados
-* Product Analytics
-* Business Intelligence
-* Dashboard Design
-* Business Insights
-* Experimentação (A/B Testing)
-* Comunicação Executiva
-
----
-
 # 📌 Conclusão
 
 O projeto demonstrou como dados podem ser utilizados para compreender o comportamento dos usuários e apoiar decisões de produto.
