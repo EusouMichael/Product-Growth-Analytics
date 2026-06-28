@@ -1,7 +1,6 @@
 # 📊 Product Analytics | Retention Analysis - Palavritas (The News)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
-![Python](https://img.shields.io/badge/Python-Data%20Preparation-3776AB?logo=python)
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
