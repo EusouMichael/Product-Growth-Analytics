@@ -24,7 +24,7 @@ Como os arquivos CSV utilizados no case não fazem parte deste repositório, alg
 
 *Abra normalmente utilizando o Power BI Desktop.
 
-*Não clique em "Atualizar" (Refresh).
+*Não clique em "Atualizar" (Atualizar).
 
 O arquivo já contém o modelo de dados carregado e todas as páginas do dashboard poderão ser exploradas normalmente.
 
