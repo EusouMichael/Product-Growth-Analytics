@@ -153,6 +153,11 @@ Principais etapas:
 
 • Parametrização das fontes de dados utilizando Pasta_Base
 
+## 📄 Documentação
+Acesse a documentação tecnica de decisões 
+
+
+- 📑 [Case Processo Seletivo](./Case%20Tecnico.md)
 
 ---
 
