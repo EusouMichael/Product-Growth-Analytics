@@ -157,7 +157,7 @@ Principais etapas:
 Acesse a documentação tecnica de decisões 
 
 
-- 📑 [Case Processo Seletivo](./Case%20Tecnico.md)
+- 📑 [Case Tecnico](./Case%20Tecnico.md)
 
 ---
 
