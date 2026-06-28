@@ -115,6 +115,22 @@ Principais etapas:
 * Relacionamentos
 * Criação das dimensões
 
+  ## Principais decisões técnicas
+• Padronização de dispositivos
+
+• Tratamento de valores inconsistentes
+
+• Exclusão de registros inválidos
+
+• Manutenção de valores ausentes quando representavam ausência legítima de informação
+
+• Não correção de inconsistências Estado × Cidade sem fonte oficial
+
+• Correção da modelagem Muitos × Muitos para Um × Muitos
+
+• Parametrização das fontes de dados utilizando Pasta_Base
+
+
 ---
 
 # 📈 Métricas Desenvolvidas (DAX)
